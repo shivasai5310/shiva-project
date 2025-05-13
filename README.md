@@ -1,1 +1,1 @@
-Project 1: retail price optimization 
+Project 1:Price Optimization Analysis for a Retail Dataset
