@@ -1,2 +1,1 @@
-# shiva-project
-retail price optimization 
+Project 1: retail price optimization 
